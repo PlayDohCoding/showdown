@@ -11,8 +11,8 @@ pokemon_mode = None
 run_count = None
 user_to_challenge = None
 gambit_exe_path = ""
-greeting_message = 'I\'m one of the top percentage bots out there, now hold this L.'
-battle_ending_message = 'Yeah this game was a waste either way it ended smfh'
+greeting_message = 'Ribbit Ribbit'
+battle_ending_message = 'gg'
 room_name = None
 
 use_relative_weights = False
