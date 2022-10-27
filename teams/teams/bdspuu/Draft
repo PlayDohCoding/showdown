@@ -2,20 +2,20 @@ Corviknight @ Leftovers
 Ability: Pressure  
 EVs: 252 HP / 168 Def / 88 SpD  
 Impish Nature  
-IVs: 0 Atk  
 - Body Press  
 - U-turn  
 - Defog  
 - Roost  
 
-Hitmonchan @ Choice Scarf  
-Ability: Iron Fist  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Close Combat  
-- Ice Punch  
-- Thunder Punch  
-- Drain Punch  
+Milotic @ Flame Orb  
+Ability: Marvel Scale  
+EVs: 252 HP / 48 Def / 208 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Recover  
+- Dragon Breath  
 
 Noivern @ Choice Specs  
 Ability: Frisk  
@@ -54,3 +54,4 @@ IVs: 0 Atk
 - Grass Knot  
 - Psychic  
 - Protect  
+
