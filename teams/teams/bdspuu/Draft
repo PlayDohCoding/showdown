@@ -7,15 +7,14 @@ Impish Nature
 - Defog  
 - Roost  
 
-Milotic @ Flame Orb  
-Ability: Marvel Scale  
-EVs: 252 HP / 48 Def / 208 SpD  
-Bold Nature  
-IVs: 0 Atk  
-- Scald  
-- Ice Beam  
-- Recover  
-- Dragon Breath  
+Sneasel @ Heavy-Duty Boots  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Ice Shard  
+- Fake Out  
 
 Noivern @ Choice Specs  
 Ability: Frisk  
@@ -26,32 +25,32 @@ Timid Nature
 - U-turn  
 - Flamethrower  
 
-Rillaboom @ Life Orb  
-Ability: Grassy Surge  
-EVs: 252 HP / 252 Atk / 4 Def  
-Adamant Nature  
-- Swords Dance  
-- Grassy Glide  
-- Knock Off  
-- Superpower  
-
-Tapu Koko @ Terrain Extender  
-Ability: Electric Surge  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Thunderbolt  
-- Grass Knot  
-- Dazzling Gleam  
-
 Raichu-Alola @ Life Orb  
 Ability: Surge Surfer  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Rising Voltage  
+- Thunderbolt  
 - Grass Knot  
 - Psychic  
+- Volt Switch  
+
+Hitmonchan @ Leftovers  
+Ability: Iron Fist  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Rapid Spin  
+- Ice Punch  
+- Drain Punch  
 - Protect  
+
+Nihilego @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Power Gem  
+- Psyshock  
+- Sludge Wave  
 
