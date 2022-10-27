@@ -15,6 +15,7 @@ MOVES_STRING = "moves"
 ITEM_STRING = "items"
 SPREADS_STRING = "spreads"
 ABILITY_STRING = "abilities"
+EFFECTIVENESS = "effectiveness"
 
 
 def get_smogon_stats_file_name(game_mode, month_delta=1):
@@ -28,7 +29,7 @@ def get_smogon_stats_file_name(game_mode, month_delta=1):
         game_mode = game_mode[:-5]
 
     # always use the `-0` file - the higher ladder is for noobs
-    smogon_url = "https://www.smogon.com/stats/{}-{}/chaos/{}-0.json"
+    smogon_url = "https://www.smogon.com/stats/2022-08/chaos/gen8monotype-1500.json"
 
     previous_month = datetime.now() - relativedelta.relativedelta(months=month_delta)
     year = previous_month.year
@@ -68,8 +69,14 @@ def get_pokemon_information(smogon_stats_url, pkmn_names=None):
         items = []
         moves = []
         abilities = []
+        matchup_effectiveness = {}
         total_count = pkmn_information['Raw count']
         final_infos[normalized_name] = {}
+
+        for counter_name, counter_information in pkmn_information["Checks and Counters"].items():
+            counter_name = normalize_name(counter_name)
+            if counter_name in pkmn_names:
+                matchup_effectiveness[counter_name] = round(1 - counter_information[1], 2)
 
         for spread, count in sorted(pkmn_information['Spreads'].items(), key=lambda x: x[1], reverse=True):
             percentage = round(100 * count / total_count, 2)
@@ -101,5 +108,6 @@ def get_pokemon_information(smogon_stats_url, pkmn_names=None):
         final_infos[normalized_name][ITEM_STRING] = sorted(items, key=lambda x: x[1], reverse=True)
         final_infos[normalized_name][MOVES_STRING] = sorted(moves, key=lambda x: x[1], reverse=True)
         final_infos[normalized_name][ABILITY_STRING] = sorted(abilities, key=lambda x: x[1], reverse=True)
+        final_infos[normalized_name][EFFECTIVENESS] = matchup_effectiveness
 
     return final_infos

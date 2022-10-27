@@ -3,10 +3,10 @@ A Pokémon battle-bot that can play battles on [Pokemon Showdown](https://pokemo
 
 The bot can play single battles in generations 3 through 8 however some of the battle mechanics assume it is gen8.
 
-![badge](https://action-badges.now.sh/pmariglia/showdown)
+![badge](https://github.com/pmariglia/showdown/actions/workflows/pythonapp.yml/badge.svg)
 
 ## Python version
-Developed and tested using Python 3.6.3.
+Developed and tested using Python 3.8.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ USER_TO_CHALLENGE: (string, required if BOT_MODE is "CHALLENGE_USER") The user t
 POKEMON_MODE: (string, required) The type of game this bot will play games in
 TEAM_NAME: (string, required if POKEMON_MODE is one where a team is required) The name of the file that contains the team you want to use. More on this below in the Specifying Teams section.
 RUN_COUNT: (integer, required) The amount of games this bot will play before quitting
-ROOM_NAME: (string, optional) Optionally join a room by this name is BOT_MODE is "ACCEPT_CHALLENGE"
+ROOM_NAME: (string, optional) Optionally join a room by this name if BOT_MODE is "ACCEPT_CHALLENGE"
 ```
 
 Here is a minimal `.env` file. This configuration will log in and search for a gen8randombattle:
