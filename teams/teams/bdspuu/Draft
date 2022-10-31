@@ -8,24 +8,23 @@ IVs: 0 Atk
 - Psyshock  
 - Sludge Wave  
 
-Celebi @ Leftovers  
-Ability: Natural Cure  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Recover  
-- Earth Power  
-- Giga Drain  
-- Psychic  
+Rillaboom @ Occa Berry  
+Ability: Grassy Surge  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Grassy Glide  
+- Knock Off  
+- Protect  
+- U-turn  
 
-Milotic @ Flame Orb  
-Ability: Marvel Scale  
-EVs: 252 HP / 252 Def / 4 SpA  
-Bold Nature  
-- Scald  
-- Recover  
-- Flip Turn  
-- Ice Beam  
+Crawdaunt @ Choice Band  
+Ability: Adaptability  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Crabhammer  
+- Knock Off  
+- Aqua Jet  
+- Close Combat  
 
 Tapu Koko @ Expert Belt  
 Ability: Electric Surge  
@@ -36,22 +35,21 @@ Naive Nature
 - Volt Switch  
 - Roost  
 
-Excadrill @ Choice Scarf  
-Ability: Mold Breaker  
+Sneasel @ Choice Band  
+Ability: Inner Focus  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Earthquake  
-- Iron Head  
-- Poison Jab  
-- Rapid Spin  
+- Knock Off  
+- Ice Shard  
+- Icicle Crash  
+- Low Kick  
 
-Corviknight @ Leftovers  
-Ability: Pressure  
-EVs: 252 HP / 168 Def / 88 SpD  
-Impish Nature  
-IVs: 0 Atk  
-- Body Press  
-- Iron Defense  
-- Defog  
-- Roost  
+Hitmonchan (M) @ Assault Vest  
+Ability: Iron Fist  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Rapid Spin  
+- Fire Punch  
+- Drain Punch  
+- Ice Punch  
 
