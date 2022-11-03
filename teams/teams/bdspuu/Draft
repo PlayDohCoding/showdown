@@ -1,21 +1,3 @@
-Hitmonchan (M) @ Assault Vest  
-Ability: Iron Fist  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Rapid Spin  
-- Drain Punch  
-- Mach Punch  
-- Thunder Punch  
-
-Rillaboom @ Life Orb  
-Ability: Grassy Surge  
-EVs: 252 Atk / 4 Def / 252 Spe  
-Adamant Nature  
-- Grassy Glide  
-- Knock Off  
-- Superpower  
-- Swords Dance  
-
 Crawdaunt @ Choice Band  
 Ability: Adaptability  
 EVs: 252 Atk / 4 Def / 252 Spe  
@@ -25,31 +7,49 @@ Adamant Nature
 - Aqua Jet  
 - Close Combat  
 
-Salazzle (F) @ Air Balloon  
-Ability: Corrosion  
+Raichu-Alola @ Life Orb  
+Ability: Surge Surfer  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Sludge Wave  
-- Flamethrower  
-- Dragon Pulse  
-- Thunder Wave  
-
-Celebi @ Leftovers  
-Ability: Natural Cure  
-EVs: 220 HP / 252 SpA / 36 Spe  
-Modest Nature  
-- U-turn  
-- Recover  
-- Giga Drain  
 - Psychic  
+- Rising Voltage  
+- Volt Switch  
+- Grass Knot  
+
+Noivern @ Choice Scarf  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Draco Meteor  
+- U-turn  
+- Shadow Ball  
+
+Tapu Koko @ Terrain Extender  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Dazzling Gleam  
+- Volt Switch  
+- Thunderbolt  
+- U-turn  
 
 Milotic @ Leftovers  
 Ability: Marvel Scale  
 EVs: 252 HP / 252 Def / 4 SpD  
 Bold Nature  
-- Scald  
-- Recover  
-- Flip Turn  
 - Haze  
+- Flip Turn  
+- Toxic  
+- Recover  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
 
