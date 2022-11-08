@@ -1,4 +1,4 @@
-Crawdaunt @ Choice Band  
+Crawdaunt @ Life Orb  
 Ability: Adaptability  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
@@ -7,7 +7,7 @@ Adamant Nature
 - Aqua Jet  
 - Close Combat  
 
-Nihilego @ Life Orb  
+Nihilego @ Choice Scarf  
 Ability: Beast Boost  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -17,14 +17,14 @@ IVs: 0 Atk
 - Thunderbolt  
 - Power Gem  
 
-Hitmonchan @ Assault Vest  
-Ability: Iron Fist  
-EVs: 248 HP / 252 Atk / 8 SpD  
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
+- Earthquake  
 - Rapid Spin  
-- Drain Punch  
-- Ice Punch  
-- Thunder Punch  
+- Iron Head  
+- Swords Dance  
 
 Gigalith @ Leftovers  
 Ability: Sand Stream  
@@ -35,22 +35,21 @@ Careful Nature
 - Stone Edge  
 - Protect  
 
-Tapu Koko @ Terrain Extender  
+Tapu Koko @ Heavy-Duty Boots  
 Ability: Electric Surge  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- U-turn  
-- Wild Charge  
-- Iron Head  
-- Roost  
-
-Raichu-Alola @ Life Orb  
-Ability: Surge Surfer  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Rising Voltage  
-- Volt Switch  
-- Psychic  
-- Focus Blast  
+- Thunderbolt  
+- Dazzling Gleam  
+- U-turn  
+- Roost  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Knock Off  
+- Wood Hammer  
+- U-turn  
 
